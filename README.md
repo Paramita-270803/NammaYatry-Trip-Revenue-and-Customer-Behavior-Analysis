@@ -1,5 +1,5 @@
-# CAPSTONE - NammaYatry_Trip_Revenue_and_Customer_Behavior_Analysis
-Data Analysis project on NamaYatry datasets using Excel, Power BI, Python, and SQL
+# NammaYatry Trip Revenue and Customer Behavior Analysis
+CAPSTONE Project on NamaYatry datasets using Excel, SQL, Power BI, and Python
 
 📊 Data Analytics Project
 Overview
@@ -9,10 +9,15 @@ This project demonstrates an end-to-end data analytics workflow — from raw dat
 The goal of the project is to transform raw data into actionable insights and present them in a clear, business-friendly format.
 
 Size- NammaYatry created total 5 datasets these are-
+
       Duration(24 Rows, 2 Columns)
+      
       Assembly(37 Rows, 2 Cloumns)
+      
       payment(4 Rows, 2 Columns)
+      
       Trip_Details(2161 Rows, 10 Columns)
+      
       Trips(983 Rows, 9 Columns)
 
 Tools & Technologies
